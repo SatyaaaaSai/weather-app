@@ -23,7 +23,7 @@ start The Server
 ```bash
 npm run start
 ```
-So Now Application Will Be Running On ``` bash Localhost```.If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) to view it in your browser.
+So Now Application Will Be Running On ```Localhost```.If you want to Fork repository and want to run locally, follow this guidelines [Fork and Clone Github Repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) to view it in your browser.
 
 
 # Getting Started with Create React App
