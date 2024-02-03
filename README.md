@@ -1,6 +1,6 @@
-#Instructions To Run This Project Locally 
+# Instructions To Run This Project Locally 
 
-#Clone this Repository 
+# Clone this Repository 
 
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
