@@ -4,7 +4,7 @@
 ### Clone this Repository 
 
 ```bash
-https://github.com/SatyaaaaSai/weather-app.git
+git clone https://github.com/SatyaaaaSai/weather-app.git
 
 ```
 Go to the Project Directory
