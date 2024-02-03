@@ -1,25 +1,29 @@
+
 # Instructions To Run This Project Locally 
 
-# Clone this Repository 
-
-You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
+### Clone this Repository 
 
 ```bash
 https://github.com/SatyaaaaSai/weather-app.git
 
+```
 Go to the Project Directory
+
 ```bash
 cd weather-app
+```
 
 Install dependencies
+
 ```bash
 npm install
+```
 
 start The Server 
 ```bash
 npm run start
-
-So Now Application Will Be Running On Localhost.
+```
+So Now Application Will Be Running On Localhost.If you want to Fork repository and want to run locally, followen [Fork and Clone Github Repository](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) to view it in your browser.
 
 
 # Getting Started with Create React App
